@@ -13,5 +13,6 @@ int main(int argc, const char * argv[]) {
     printf("hhh");
     printf("test");
     printf("test2");
+    printf("test3");
     return 0;
 }
