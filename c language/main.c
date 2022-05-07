@@ -12,5 +12,6 @@ int main(int argc, const char * argv[]) {
     printf("Hello, World!\n");
     printf("hhh");
     printf("test");
+    printf("test2");
     return 0;
 }
